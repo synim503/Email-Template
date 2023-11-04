@@ -1,0 +1,214 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Arial" href="https://v1.fontapi.ir/css/SFProDisplay"/>
+        <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway"/>
+        <mj-title>GoPromenad</mj-title>
+        <mj-preview>GoPromenad</mj-preview>
+        <mj-style>
+
+        </mj-style>
+    </mj-head>
+    <mj-body width="500px" >
+        <!--Header-->
+        <!--Logo+Promenad-->
+        <mj-section padding-top="60px"
+                    padding-bottom="30px"
+        >
+            <mj-column>
+                <mj-text padding="0"
+                         font-weight="700"
+                         font-size="24px"
+                         height="20px"
+                         font-family="Arial"
+                         color="#007AFF"
+                         align="center"
+                >
+                    <a href="https://gopromenad.com/"><img style="width: 20px;padding: 0; padding-right: 3px"
+                                                           src="https://gopromenad.com/imgs/mail/icons/logo.png"
+                    /></a>
+                    <a href="https://gopromenad.com/" style="text-decoration:none; color: #007AFFFF ">Promenad</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!--Welcome-->
+        <mj-section padding="0 25px"
+                    padding-bottom="30px"
+        >
+            <mj-column width="500px"
+                       padding="0px"
+            >
+                <mj-text align="center"
+                         font-weight="700"
+                         font-size="34px"
+                         font-family="Arial"
+                         line-height="41px"
+                >
+                    Hey, *username*!
+                    Leaves Shop is Here!
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!--1 line text-->
+        <mj-section padding="0 25px">
+            <mj-column padding="0">
+                <mj-text font-size="15px"
+                         color="#ABB2C6"
+                         font-weight="400"
+                         font-family="Arial"
+                         line-height="22px"
+                         padding="0px"
+                         height="44px"
+                >
+                    More leaves – more likes! More likes – more matches!
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!--2 line text-->
+        <mj-section padding="0 25px 400px">
+            <mj-column padding="0">
+                <mj-text font-size="15px"
+                         color="#ABB2C6"
+                         font-weight="400"
+                         font-family="Arial"
+                         line-height="22px"
+                         padding="0px"
+                         height="66px"
+                >
+                    Increase your chances to find what you are looking for!
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!--3 line text-->
+        <mj-section padding="0 25px">
+            <mj-column padding="0">
+                <mj-text font-size="15px"
+                         color="#ABB2C6"
+                         font-weight="400"
+                         font-family="Arial"
+                         line-height="22px"
+                         padding="0px"
+                         height="66px"
+                >
+                    With extra leaves you get to know more people and increase your chances to meet the special one.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!--Footer-->
+        <mj-section padding="0 25px" css-class="footersec">
+            <mj-group css-class="footer" width="500px">
+                <mj-column padding="0">
+                    <mj-text align="center"
+                             font-weight="500"
+                             font-size="13px"
+                             font-family="Arial"
+                             color="#ABB2C6"
+                             text-transform="uppercase"
+                             padding="0"
+                             padding-top="29px"
+                             padding-bottom="10px"
+                    >
+                        Follow us
+                    </mj-text>
+                    <mj-social mode="horizontal"
+                               align="center"
+                               padding="0"
+                    >
+                        <mj-social-element icon-size="15px"
+                                           vertical-align="middle"
+                                           icon-padding="0 10px 0 0"
+                                           src="https://gopromenad.com/imgs/mail/icons/instagram.png"
+                                           href="https://www.instagram.com/gopromenad"
+                        />
+                        <mj-social-element icon-size="15px"
+                                           vertical-align="middle"
+                                           icon-padding="0 10px 0 0"
+                                           src="https://gopromenad.com/imgs/mail/icons/twitter.png"
+                                           href="https://twitter.com/gopromenad"
+                        />
+                        <mj-social-element icon-size="15px"
+                                           vertical-align="middle"
+                                           icon-padding="0 10px 0 0"
+                                           src="https://gopromenad.com/imgs/mail/icons/facebook.png"
+                                           href="https://www.facebook.com/gopromenad"
+                        />
+                        <mj-social-element icon-size="15px"
+                                           vertical-align="middle"
+                                           src="https://gopromenad.com/imgs/mail/icons/reddit.png"
+                                           href="https://www.reddit.com/r/Promenad"
+                        />
+                        <mj-social-element icon-size="15px"
+                                           icon-height="14px"
+                                           vertical-align="middle"
+                                           icon-padding="0 0 0 10px"
+                                           src="https://gopromenad.com/imgs/mail/icons/pinterest.png"
+                                           href="https://www.pinterest.com/gopromenad"
+                        />
+                        <mj-social-element icon-size="15px"
+                                           vertical-align="middle"
+                                           icon-padding="0 0 0 10px"
+                                           src="https://gopromenad.com/imgs/mail/icons/vk.png"
+                                           href="https://vk.com/gopromenad"
+                        />
+                        <mj-social-element icon-size="15px"
+                                           vertical-align="middle"
+                                           icon-padding="0 0 0 10px"
+                                           src="https://gopromenad.com/imgs/mail/icons/medium.png"
+                                           href="https://medium.com/promenad"
+                        />
+                    </mj-social>
+                    <mj-text align="center"
+                             font-weight="500"
+                             font-size="13px"
+                             font-family="Arial"
+                             color="#ABB2C6"
+                             text-transform="uppercase"
+                             padding="0"
+                             padding-top="20px"
+                    >
+                        Download App
+                    </mj-text>
+                    <mj-social padding="0"
+                               padding-top="14px"
+                               icon-height="22px"
+                               mode="horizontal"
+                               align="center"
+                    >
+                        <mj-social-element icon-size="71px"
+                                           padding="0 5px"
+                                           vertical-align="middle"
+                                           src="https://gopromenad.com/imgs/mail/icons/app-store.png"
+                                           href="https://apps.apple.com/app/id1509890626"
+                        />
+                        <mj-social-element icon-size="71px"
+                                           padding="0 5px"
+                                           vertical-align="middle"
+                                           src="https://gopromenad.com/imgs/mail/icons/play-market.png"
+                                           href="https://play.google.com/store/apps/details?id=com.promenad"
+                        />
+                    </mj-social>
+                    <mj-text align="center"
+                             font-weight="600"
+                             font-size="11px"
+                             font-family="Arial"
+                             color="#007AFF"
+                             padding="0"
+                             padding-top="15px"
+                    >
+                        <a href="https://www.arturia.com/privacypolicy" style="text-decoration:none; color: #007AFFFF ">Notification Settings</a>
+                    </mj-text>
+                    <mj-text align="center"
+                             font-weight="400"
+                             font-size="11px"
+                             font-family="Arial"
+                             color="#ABB2C6"
+                             padding="9px 20px 20px"
+                             padding-top="9px"
+                             padding-bottom="20px"
+                    >
+                        Copyright © 2021 New Technologies Ltd., Hollyhill Industrial Estate, Hollyhill, Dublin, Republic of Ireland
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+    </mj-body>
+</mjml>

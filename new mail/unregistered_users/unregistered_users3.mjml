@@ -1,0 +1,243 @@
+<mjml>
+    <mj-head>
+        <mj-preview>
+        </mj-preview>
+    </mj-head>
+    <mj-body>
+        <!--Hreader-->
+        <!--Logo+Promenad-->
+        <mj-section padding-top="60px"
+                    padding-bottom="30px"
+        >
+            <mj-column>
+                <mj-text padding="0"
+                         font-weight="700"
+                         font-size="24px"
+                         height="20px"
+                         font-family="Arial"
+                         color="#007AFF"
+                         align="center"
+                >
+                    <a href="https://gopromenad.com/"><img style="width: 20px;padding: 0; padding-right: 3px"
+                                                           src="https://gopromenad.com/imgs/mail/icons/logo.png"
+                    /></a>
+                    <a href="https://gopromenad.com/" style="text-decoration:none; color: #007AFFFF ">Promenad</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!--Welcome-->
+        <!--Text-->
+        <mj-section padding="0"
+        >
+            <mj-column width="500px" padding="0 10px"
+
+                       css-class="header"
+                       vertical-align="bottom"
+            >
+                <mj-text font-size="15px"
+                         color="#ABB2C6"
+                         font-weight="400"
+                         font-family="Arial"
+                         line-height="22px"
+                         padding="0px"
+                         padding-bottom="15px"
+                         align="center"
+                >
+                    Hi there,
+                </mj-text>
+                <mj-text font-size="15px"
+                         color="#ABB2C6"
+                         font-weight="400"
+                         font-family="Arial"
+                         line-height="22px"
+                         padding="0px"
+                         align="center"
+                         padding-bottom="15px"
+                >
+                    It’s time to streamline your socializing with Promenad and meet more suitable people faster. It’s not just for dating either. Promenad is designed to connect all people for all relationships, from friendship to partnership.                </mj-text>
+                <mj-text font-size="15px"
+                         color="#ABB2C6"
+                         font-weight="400"
+                         font-family="Arial"
+                         line-height="22px"
+                         padding="0px"
+                         align="center"
+                         padding-bottom="15px"
+                >
+                    Build up your profile and share some of your favourite places to go out, as well as what activities you enjoy, and we’ll connect you with others who like them too. So, whether you’ve moved to a new area and want to meet new friends, or looking for a relationship, the Promenad platform is here to make it happen.                </mj-text>
+                <mj-text font-size="15px"
+                         color="#ABB2C6"
+                         font-weight="400"
+                         font-family="Arial"
+                         line-height="22px"
+                         padding="0px"
+                         align="center"
+                         padding-bottom="15px"
+                >
+                    Check out more features on our website; gopromenda.com and take them for a test drive by signing up at gopromenad.com/welcome.                </mj-text>
+                <mj-text font-size="15px"
+                         color="#ABB2C6"
+                         font-weight="400"
+                         font-family="Arial"
+                         line-height="22px"
+                         padding="0px"
+                         align="center"
+                         padding-bottom="15px"
+                >
+                    We hope to see you online soon.
+                </mj-text>
+                <mj-text font-size="15px"
+                         color="#ABB2C6"
+                         font-weight="400"
+                         font-family="Arial"
+                         line-height="22px"
+                         padding="0px"
+                         align="center"
+                >
+                    Kind Regards, Promenad.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!--Body-->
+        <!--1 line-->
+        <mj-section>
+            <mj-column>
+                <mj-button font-family="Arial" font-weight="500" text-transform="uppercase" width="65%"
+                           height="44px" border-radius="6px" background-color="#007AFF" href="https://gopromenad.com/welcome">
+                    Go to Promenad
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <!--Footer-->
+        <mj-section padding="0 25px"
+        >
+            <mj-group>
+                <mj-column>
+                    <mj-text align="center"
+                             font-weight="500"
+                             font-size="13px"
+                             font-family="Arial"
+                             color="#ABB2C6"
+                             text-transform="uppercase"
+                             padding="0"
+                             padding-top="29px"
+                             padding-bottom="10px"
+                    >
+                        Follow us
+                    </mj-text>
+                    <mj-social mode="horizontal"
+                               align="center"
+                               padding="0"
+                    >
+                        <mj-social-element icon-size="15px"
+                                           vertical-align="middle"
+                                           icon-padding="0 10px 0 0"
+                                           src="https://gopromenad.com/imgs/mail/icons/instagram.png"
+                                           href="https://www.instagram.com/gopromenad"
+                        />
+                        <mj-social-element icon-size="15px"
+                                           vertical-align="middle"
+                                           icon-padding="0 10px 0 0"
+                                           src="https://gopromenad.com/imgs/mail/icons/twitter.png"
+                                           href="https://twitter.com/gopromenad"
+                        />
+                        <mj-social-element icon-size="15px"
+                                           vertical-align="middle"
+                                           icon-padding="0 10px 0 0"
+                                           src="https://gopromenad.com/imgs/mail/icons/facebook.png"
+                                           href="https://www.facebook.com/gopromenad"
+                        />
+                        <mj-social-element icon-size="15px"
+                                           vertical-align="middle"
+                                           src="https://gopromenad.com/imgs/mail/icons/reddit.png"
+                                           href="https://www.reddit.com/r/Promenad"
+                        />
+                        <mj-social-element icon-size="15px"
+                                           icon-height="14px"
+                                           vertical-align="middle"
+                                           icon-padding="0 0 0 10px"
+                                           src="https://gopromenad.com/imgs/mail/icons/pinterest.png"
+                                           href="https://www.pinterest.com/gopromenad"
+                        />
+                        <mj-social-element icon-size="15px"
+                                           vertical-align="middle"
+                                           icon-padding="0 0 0 10px"
+                                           src="https://gopromenad.com/imgs/mail/icons/vk.png"
+                                           href="https://vk.com/gopromenad"
+                        />
+                        <mj-social-element icon-size="15px"
+                                           vertical-align="middle"
+                                           icon-padding="0 0 0 10px"
+                                           src="https://gopromenad.com/imgs/mail/icons/medium.png"
+                                           href="https://medium.com/promenad"
+                        />
+                    </mj-social>
+                    <mj-text align="center"
+                             font-weight="500"
+                             font-size="13px"
+                             font-family="Arial"
+                             color="#ABB2C6"
+                             text-transform="uppercase"
+                             padding="0"
+                             padding-top="20px"
+                    >
+                        Download App
+                    </mj-text>
+                    <mj-social padding="0"
+                               padding-top="14px"
+                               icon-height="22px"
+                               mode="horizontal"
+                               align="center"
+                    >
+                        <mj-social-element icon-size="71px"
+                                           padding="0 5px"
+                                           vertical-align="middle"
+                                           src="https://gopromenad.com/imgs/mail/icons/app-store.png"
+                                           href="https://apps.apple.com/app/id1509890626"
+                        />
+                        <mj-social-element icon-size="71px"
+                                           padding="0 5px"
+                                           vertical-align="middle"
+                                           src="https://gopromenad.com/imgs/mail/icons/play-market.png"
+                                           href="https://play.google.com/store/apps/details?id=com.promenad"
+                        />
+                    </mj-social>
+                    <mj-text align="center"
+                             font-weight="600"
+                             font-size="11px"
+                             font-family="Arial"
+                             color="#007AFF"
+                             padding="0"
+                             padding-top="15px"
+                    >
+                        <a href="https://gopromenad.com/privacy/" style="text-decoration:none; color: #007AFFFF ">Notification Settings</a>
+                    </mj-text>
+                    <mj-text
+                            font-weight="400"
+                            font-size="11px"
+                            font-family="Arial"
+                            color="#ABB2C6"
+                            align="center"
+                            padding="9px 20px 20px"
+                            padding-top="9px"
+                            padding-bottom="0px"
+                            text-transform="uppercase"
+                    >
+                        <a href ="[[WORKFLOW_EXIT_UNSUB_LINK_EN]]" style="text-decoration:none; color: #ABB2C6 ">click here to unsubscribe</a>
+                    </mj-text>
+                    <mj-text align="center"
+                             font-weight="400"
+                             font-size="11px"
+                             font-family="Arial"
+                             color="#ABB2C6"
+                             padding="9px 20px 20px"
+                             padding-top="9px"
+                             padding-bottom="20px"
+                    >
+                        Copyright © 2021 Dating Tech Group Ltd., 120 Newkirk road, suite 34, Richmond Hill, ON, L4C9S7, Canada
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+    </mj-body>
+</mjml>
