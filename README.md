@@ -1,5 +1,4 @@
 ![](img/maxresdefault.jpg)
-![](img/img.jpg)
 ## Mail - Template
 
 Верстка транзакционных адаптивных электронных писем
